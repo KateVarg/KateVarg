@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/17/5e/da/175eda03beec29af20dfc40a38e5ac68.jpg" aling="center"> </img>
+<img src="https://i.pinimg.com/originals/9a/e7/2c/9ae72c6cfce1a6304e356e65b160ea72.jpg" aling="center" widght=100%> </img>
 ## 👋 Привет! 
 
 Меня зовут Катя и я ручной тестировщик. 
