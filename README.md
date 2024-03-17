@@ -1,3 +1,4 @@
+<img src="https://i.pinimg.com/564x/17/5e/da/175eda03beec29af20dfc40a38e5ac68.jpg" aling="center"> </img>
 ## 👋 Привет! 
 
 Меня зовут Катя и я ручной тестировщик. 
@@ -6,7 +7,7 @@
 
 В прошлом горный инженер и тестировщик в настоящем. Обладаю аналитическим складом ума. Моим хобби является получение новых знаний. Стараюсь пробовать новое и внедрять полученный знания в работу. Верю в силу конструктивного общения и что обо всем можно договориться.
 
-✉️ Связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@katevarganova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:varganovaekat@gmail.com)
+✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@VarganovaKate-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VarganovaKate) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:varganovaekat@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@katevarganova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) 
 
 --- 
 
