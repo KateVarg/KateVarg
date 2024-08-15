@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
   <img src="assets/kaiten.png" title="kaiten" alt="kaiten" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/501c9d05b6660ba5e1a8753b8461e60d7ff1614656102c254ab800e14a6b19fa/68747470733a2f2f616c6c7572657265706f72742e6f72672f7075626c69632f696d672f616c6c7572652d7265706f72742e737667" title="allure" alt="allure" width="40" height="40"/>&nbsp
-  <img src="https://raw.githubusercontent.com/KateVarg/mobile_diplom/main/mobile_diplom/resources/AllureTestOps.png" width="40" height="40"  alt="Allure TestOps"/>
+  <img src="https://raw.githubusercontent.com/KateVarg/wikipedia-app-tests/main/wikipedia_app_tests/resources/AllureTestOps.png" width="40" height="40"  alt="Allure TestOps"/>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/KateVarg/mobile_diplom/main/mobile_diplom/resources/appium.png" alt="Appium" title="Appium" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/KateVarg/wikipedia-app-tests/main/wikipedia_app_tests/resources/appium.png" alt="Appium" title="Appium" width="40" height="40"/>&nbsp
 </div>
 
 ---
