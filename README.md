@@ -6,6 +6,11 @@
 
 В прошлом горный инженер и тестировщик в настоящем. Обладаю аналитическим складом ума. Моим хобби является получение новых знаний. Стараюсь пробовать новое и внедрять полученный знания в работу. Верю в силу конструктивного общения и что обо всем можно договориться.
 
+Прошла курсы по автоматизации тестирования на python. Ссылки на дипломный проект:
+1. [UI-тестирование](https://github.com/KateVarg/users-bugred-project-tests)
+2. [API-тестирование](https://github.com/KateVarg/reqres-in-project-tests)
+3. [Mobile-тестирование](https://github.com/KateVarg/wikipedia-app-tests)
+
 📄 <a href="https://drive.google.com/file/d/16pBhpoTNRwhhoHuO1Do3hfA6FZoCttgv/view?usp=sharing" target="_blank"> Мое резюме </a>
 
 ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@VarganovaKate-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VarganovaKate) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:varganovaekat@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@katevarganova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) 
