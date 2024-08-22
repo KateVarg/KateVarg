@@ -11,7 +11,7 @@
 2. [API-тестирование](https://github.com/KateVarg/reqres-in-project-tests)
 3. [Mobile-тестирование](https://github.com/KateVarg/wikipedia-app-tests)
 
-📄 <a href="https://drive.google.com/file/d/16pBhpoTNRwhhoHuO1Do3hfA6FZoCttgv/view?usp=sharing" target="_blank"> Мое резюме </a>
+📄 <a href="https://drive.google.com/file/d/1Zu6BgqinCuz6qNQ2PcMbriIhL81sQQCd/view?usp=sharing" target="_blank"> Мое резюме </a>
 
 ✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@VarganovaKate-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VarganovaKate) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:varganovaekat@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@katevarganova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) 
 
