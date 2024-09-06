@@ -1,23 +1,34 @@
-## 👋 Привет! 
+## 👋 Привет! | Hello!
 
 Меня зовут Катя и в первую очередь я ручной тестировщик, но кроме этого я также являюсь начинающим автотестировщиком. 
 
-### Обо мне:
+My name is Kate and first of all I am Manual QA Engineer, but at the same time I am beginer Auto QA Engineer.
+
+### Обо мне | About:
 
 В прошлом горный инженер и тестировщик в настоящем. Обладаю аналитическим складом ума. Моим хобби является получение новых знаний. Стараюсь пробовать новое и внедрять полученный знания в работу. Верю в силу конструктивного общения и что обо всем можно договориться.
 
-Прошла курсы по автоматизации тестирования на python. Ссылки на дипломный проект:
+Former mining engineer and current Manual QA Engineer. I have an analytical mindset. My hobby is acquiring new knowledge. I strive to try new things and implement the knowledge I gain into my work. I believe in the power of constructive communication and that everything can be resolved through dialogue. 
+
+
+Прошла курсы по автоматизации тестирования на python. Ссылки на дипломный проект: 
 1. [UI-тестирование](https://github.com/KateVarg/users-bugred-project-tests)
 2. [API-тестирование](https://github.com/KateVarg/reqres-in-project-tests)
 3. [Mobile-тестирование](https://github.com/KateVarg/wikipedia-app-tests)
 
-📄 <a href="https://drive.google.com/file/d/1Zu6BgqinCuz6qNQ2PcMbriIhL81sQQCd/view?usp=sharing" target="_blank"> Мое резюме </a>
 
-✉️ Связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-@VarganovaKate-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VarganovaKate) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:varganovaekat@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@katevarganova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) 
+Recently I have learned automation testing on python. There are links to my diploma projects:
+1. [UI-testing](https://github.com/KateVarg/users-bugred-project-tests)
+2. [API-testing](https://github.com/KateVarg/reqres-in-project-tests)
+3. [Mobile-testing](https://github.com/KateVarg/wikipedia-app-tests)
+
+📄 <a href="https://drive.google.com/file/d/1Zu6BgqinCuz6qNQ2PcMbriIhL81sQQCd/view?usp=sharing" target="_blank"> Мое резюме </a> | <a href="https://drive.google.com/file/d/1Lp7hH8osh0KFBB3HTRV_lKG6y62zAMJg/view?usp=sharing" target="_blank"> My resume </a> 
+
+✉️ Связаться со мной | Contact me: [![Telegram Badge](https://img.shields.io/badge/-@VarganovaKate-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VarganovaKate) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:varganovaekat@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@katevarganova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) 
 
 --- 
 
-### Социальные сети: 
+### Социальные сети | Social media: 
 <div>
   <a href="https://t.me/VarganovaKate" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
@@ -28,11 +39,7 @@
 </div>
 
 ---
-### 🗃 Тестовая документация:
-📝  <a href="https://katye9470.kaiten.ru/space/58362" target="_blank"> Баг-отчеты </a>
-
-📝  <a href="https://katye9470.kaiten.ru/space/58362" target="_blank"> Тест-кейсы </a>
-
+### 🗃 Тестовая документация | Test documentation:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
   <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="tetstrail" width="40" height="40"/>&nbsp
@@ -44,7 +51,7 @@
 </div>
 
 ---
-### 💻 Тестирование web: 
+### 💻 Тестирование web | Web testing: 
 
 <div>
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
@@ -59,7 +66,7 @@
 </div>
 
 ---
-### 📱 Тестирование мобильных приложений: 
+### 📱 Тестирование мобильных приложений | Mobile testing: 
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
@@ -67,14 +74,14 @@
 </div>
 
 ---
-### 🗄 Работа с данными:
+### 🗄 Работа с данными | Working with data:
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dbeaver/dbeaver-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>
 </div>
 
 ---
-### 🛠 Работа с кодом: 
+### 🛠 Работа с кодом | Working with code: 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
