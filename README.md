@@ -22,7 +22,7 @@ Recently I have learned automation testing on python. There are links to my dipl
 2. [API-testing](https://github.com/KateVarg/reqres-in-project-tests)
 3. [Mobile-testing](https://github.com/KateVarg/wikipedia-app-tests)
 
-📄 <a href="https://drive.google.com/file/d/1Zu6BgqinCuz6qNQ2PcMbriIhL81sQQCd/view?usp=sharing" target="_blank"> Мое резюме </a> | <a href="https://drive.google.com/file/d/1Lp7hH8osh0KFBB3HTRV_lKG6y62zAMJg/view?usp=sharing" target="_blank"> My resume </a> 
+📄 <a href="https://drive.google.com/file/d/1Zu6BgqinCuz6qNQ2PcMbriIhL81sQQCd/view?usp=sharing" target="_blank"> Мое резюме </a> | <a href="https://drive.google.com/file/d/1_zL_Hjb9mRmHZ4P14F71nUVmvzoGyroZ/view?usp=sharing" target="_blank"> My resume </a> 
 
 ✉️ Связаться со мной | Contact me: [![Telegram Badge](https://img.shields.io/badge/-@VarganovaKate-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/VarganovaKate) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:varganovaekat@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@katevarganova-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/artsiomrusau/) 
 
